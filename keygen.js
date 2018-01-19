@@ -12,3 +12,4 @@ var privateKeyToAddress = function(privateKey){
 }
 var m=privateKeyToAddress(args);
 console.log(m);
+console.log("rasel");
